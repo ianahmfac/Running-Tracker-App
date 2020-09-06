@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Running Tracker App</string>
+    <string-array name="filter_options">
+        <item>Tanggal</item>
+        <item>Waktu Berlari</item>
+        <item>Jarak</item>
+        <item>Kecepatan Rata-Rata</item>
+        <item>Kalori Terbakar</item>
+    </string-array>
+
+    <string name="api_key">AIzaSyB04jHeEeL56WfHqcfXPh8Gq9TPV0wWye4</string>
+    <string name="sort_by">Urutkan Berdasarkan</string>
+    <string name="date">TANGGAL</string>
+    <string name="time">WAKTU</string>
+    <string name="distance">JARAK</string>
+    <string name="avgspeed">KECEPATAN</string>
+    <string name="calories">KALORI</string>
+    <string name="total_distance">Jarak Total</string>
+    <string name="dummy_value_distance">0km</string>
+    <string name="total_time">Waktu Total</string>
+    <string name="dummy_value_time">00:00:00</string>
+    <string name="total_calories_burned">Total Kalori Terbakar</string>
+    <string name="dummy_value_calories">0kcal</string>
+    <string name="average_speed">Kecepatan Rata-Rata</string>
+    <string name="dummy_value_speed">0km/h</string>
+    <string name="your_name">Input Nama...</string>
+    <string name="your_weight">Input Berat Badan...</string>
+    <string name="apply_changes">Simpan Perubahan</string>
+    <string name="dummy_value_time_full">00:00:00:00</string>
+    <string name="start">Mulai</string>
+    <string name="finish_run">Selesai Berlari</string>
+    <string name="let_s_go_username">Let\'s go, %s!</string>
+    <string name="welcome_greetings">Selamat Datang!\nMasukkan nama dan berat badan kamu</string>
+    <string name="kg">kg</string>
+    <string name="continues">Lanjutkan</string>
+    <string name="your_runs">Aktivitas Berlari</string>
+    <string name="statistics">Statistik</string>
+    <string name="settings">Pengaturan</string>
+    <string name="stop">Berhenti</string>
+    <string name="resume">Lanjutkan</string>
+    <string name="pause">Jeda</string>
+    <string name="cancelling_running">Batalkan Aktivitas</string>
+</resources>
